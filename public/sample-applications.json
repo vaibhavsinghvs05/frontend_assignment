@@ -1,0 +1,22 @@
+[
+    {
+        "applicationNO": "APP001",
+        "applicantName": "John Doe",
+        "applicationDate": "2024-12-10",
+        "studentID": "STU001",
+        "paidAmount": 1000,
+        "status_En": "Approved",
+        "status_Ar": "No Data Available",
+        "lastDate": "2024-12-15"
+    },
+    {
+        "applicationNO": "APP002",
+        "applicantName": "Jane Smith",
+        "applicationDate": "2024-12-09",
+        "studentID": "STU002",
+        "paidAmount": 800,
+        "status_En": "Pending",
+        "status_Ar": "No Data Available",
+        "lastDate": "2024-12-12"
+    }
+]
